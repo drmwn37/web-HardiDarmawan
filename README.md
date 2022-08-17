@@ -11,5 +11,5 @@ Landing Page ini menceritakan tentang rakyat Indonesia melakukan perlawaan terha
 | **Tema**       | : | Perlawanan Perjajahan Jepang |
 | **Category**    | : | Desain Website                 |
 | **Animasi Digunakan** | : |  |
-| **Font Digunakan** | : | [Roboto](https://fonts.google.com/specimen/Tangerine?category=Handwriting) |
+| **Font Digunakan** | : | [Tangerine](https://fonts.google.com/specimen/Tangerine?category=Handwriting) |
 | **Referensi** | : |  |
